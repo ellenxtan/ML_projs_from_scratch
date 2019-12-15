@@ -3,7 +3,6 @@ import numpy as np
 import math
 import copy
 
-
 # define a node data structure
 class Node:
     def __init__(self, depth, train_data, feature_used):
